@@ -6,7 +6,10 @@ My goal was to explore observable plot and open street maps.
 
 ## Day 1 - Points
 
-https://github.com/isinkosemen/30DayMapChallenge/blob/88556a7127bc2927985a65b3dc077d4db4e0b065/2023/Day%201%20-%20Points%20-%20Nuclear%20Reactors%20Worldwide.mp4
+https://github.com/isinkosemen/30DayMapChallenge/assets/28147353/d042f1a8-1df6-446f-a99e-536c70dc267f
+
+
+
 
 
 
