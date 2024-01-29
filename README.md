@@ -4,6 +4,8 @@ Here are my contributions to the [#30DayMapChallenge](https://30daymapchallenge.
 
 My primary objective in undertaking this challenge was to leverage my JavaScript skills and explore Observable Plot and OpenStreetMap.
 
+You can checkout my [Observable Notebook](https://observablehq.com/@30daymapchallenge-ikosemen?tab=recents&at=%4030daymapchallenge-ikosemen&action=edited). 
+
 ## Day 1: Points
 
 ### Nuclear Power Plants Worldwide
