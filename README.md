@@ -1,8 +1,8 @@
 # 30DayMapChallenge
 
-Here are my contributions to the [#30DayMapChallenge](https://30daymapchallenge.com) .
+Here are my contributions to the [#30DayMapChallenge](https://30daymapchallenge.com) initiated by Topi Tjukanov.
 
-My goal was to explore observable plot and open street maps.
+My main goal from this challenge was to explore Observable plot and open street maps.
 
 https://github.com/isinkosemen/30DayMapChallenge/assets/28147353/d042f1a8-1df6-446f-a99e-536c70dc267f
 
