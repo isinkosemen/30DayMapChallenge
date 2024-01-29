@@ -2,7 +2,7 @@
 
 Here are my contributions to the [#30DayMapChallenge](https://30daymapchallenge.com) initiated by Topi Tjukanov.
 
-My main goal from this challenge was to apply Javascaript and explore Observable plot and open street maps.
+My primary objective in undertaking this challenge was to leverage my JavaScript skills and explore Observable Plot and OpenStreetMap.
 
 ## Day 1: Points
 
