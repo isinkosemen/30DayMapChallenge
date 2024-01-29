@@ -4,7 +4,7 @@ Here are my contributions to the [#30DayMapChallenge](https://30daymapchallenge.
 
 My primary objective in undertaking this challenge was to leverage my JavaScript skills and explore Observable Plot and OpenStreetMap.
 
-You can checkout my [Observable notebooks](https://observablehq.com/@30daymapchallenge-ikosemen?tab=recents&at=%4030daymapchallenge-ikosemen&action=edited) for each map challenge. 
+You can check out my [Observable notebooks](https://observablehq.com/@30daymapchallenge-ikosemen?tab=recents&at=%4030daymapchallenge-ikosemen&action=edited) for each map challenge. 
 
 ## Day 1: Points
 
