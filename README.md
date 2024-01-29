@@ -6,13 +6,13 @@ My main goal from this challenge was to apply Javascaript and explore Observable
 
 ## Day 1: Points
 
-## Nuclear Power Plants Worldwide
+### Nuclear Power Plants Worldwide
 
 https://github.com/isinkosemen/30DayMapChallenge/assets/28147353/d042f1a8-1df6-446f-a99e-536c70dc267f
 
 ## Day 2: Lines
 
-## State Lines
+### State Lines
 
 <img width="664" alt="Screenshot (850 corrected)" src="[https://github.com/isinkosemen/30DayMapChallenge/blob/main/2023/Day%202%20-%20Lines%20-%20State%20Lines%20-%20without%20title.png]">
 
